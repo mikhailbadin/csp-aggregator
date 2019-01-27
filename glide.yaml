@@ -1,0 +1,8 @@
+package: github.com/mikhailbadin/csp-aggregator
+import:
+- package: github.com/gin-gonic/gin
+  version: ^1.3.0
+- package: github.com/globalsign/mgo
+- package: github.com/joho/godotenv
+  version: ^1.3.0
+- package: github.com/tarantool/go-tarantool
