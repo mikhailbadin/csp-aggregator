@@ -14,7 +14,7 @@ const (
 
 // MongoDB environment definition
 const (
-	mongoURLEnv = "MONGO_URL"
+	mongoURLEnv = "MONGO_URI"
 )
 
 // TarantoolDB environment definition
